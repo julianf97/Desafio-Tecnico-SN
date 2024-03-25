@@ -1,0 +1,83 @@
+body{
+  font-family: "Karla", "Helvetica", sans-serif;
+}
+
+.formContainer{
+  background-image: url("../public/fondoForm.png");
+  background-size: cover; 
+  background-position: center; 
+}
+
+.imagenContainer{
+  background-image: url("../public/fondo.jpg");
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  color: #303030;
+}
+
+.acceptDataImg{
+  background-image: url("../public/acceptData.png");
+  background-size: contain; 
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+.sendDataImg{
+  background-image: url("../public/sendData.png");
+  background-size: contain; 
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+.expiredDataImg{
+  background-image: url("../public/expiredData.png");
+  background-size: contain; 
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+.rejectDataImg{
+  background-image: url("../public/rejectData.png");
+  background-size: contain; 
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+.iconExit{
+  color: #fff;
+  font-size: 20px;
+}
+
+.iconCheck{
+  font-size: 40px;
+  color: #5c9600;
+}
+
+.iconCheckGray{
+  font-size: 40px;
+  color: #929292;
+}
+
+.iconMark{
+  font-size: 40px;
+  color: #960000;
+}
+
+.iconMarkGray{
+  font-size: 40px;
+  color: #929292;
+}
+
+.iconExpired{
+  font-size: 40px;
+  color: #000000;
+}
+
+.iconExpiredGray{
+  font-size: 40px;
+  color: #929292;
+}
+
+
+
